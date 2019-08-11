@@ -1,0 +1,27 @@
+[
+    {
+       "img":"img/5.png",
+       "name":"NIKE",
+       "oppicanie":"AIR MAX TAVAS SD",
+       "kolvo":"20+ type",
+       "buttonname":"LOAD ALL TYP"
+      	
+    },
+     {
+       "img":"img/8.png",
+       "name":"ADIDAS",
+       "oppicanie":"AIR MAX TAVAS SD",
+       "kolvo":"20+ type",
+       "buttonname":"LOAD ALL TYP"
+
+    },
+     {
+       "img":"img/9.png",
+       "name":"PUMA",
+       "oppicanie":"AIR MAX TAVAS SD",
+       "kolvo":"20+ type",
+       "buttonname":"LOAD ALL TYP"
+
+    }
+   
+]

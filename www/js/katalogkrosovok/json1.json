@@ -1,0 +1,76 @@
+[
+    {
+       "img":"img/10.png",
+       "name":"NIKE",
+       "oppicanie":"Air max Tavas SD",
+       "Sveta":"Black/Pink Pow/Tour Yellow/White",
+       "naski":"EN STOCK",
+       "cost":"$160.00",
+       "razmer1":"37",
+       "razmer2":"38",
+       "razmer3":"39"
+
+      
+    },
+     {
+       "img":"img/12.png",
+       "name":"NIKE",
+       "oppicanie":"Air max Tavas SD",
+       "Sveta":"Black/Pink Pow/Tour Yellow/White",
+       "naski":"EN STOCK",
+       "cost":"$140.00",
+       "razmer1":"37",
+       "razmer2":"38",
+       "razmer3":"39"
+
+    },
+      {
+       "img":"img/6.png",
+       "name":"NIKE",
+       "oppicanie":"Air max Tavas SD",
+       "Sveta":"Black/Pink Pow/Tour Yellow/White",
+       "naski":"EN STOCK",
+       "cost":"$140.00",
+       "razmer1":"37",
+       "razmer2":"38",
+       "razmer3":"39"
+
+    },
+      {
+       "img":"img/13.png",
+       "name":"NIKE",
+       "oppicanie":"Air max Tavas SD",
+       "Sveta":"Black/Pink Pow/Tour Yellow/White",
+       "naski":"EN STOCK",
+       "cost":"$130.00",
+       "razmer1":"37",
+       "razmer2":"38",
+       "razmer3":"39"
+
+    },
+      {
+       "img":"img/6.png",
+       "name":"NIKE",
+       "oppicanie":"Air max Tavas SD",
+       "Sveta":"Black/Pink Pow/Tour Yellow/White",
+       "naski":"EN STOCK",
+       "cost":"$160.00",
+       "razmer1":"37",
+       "razmer2":"38",
+       "razmer3":"39"
+
+    },
+     {
+        "img":"img/14.png",
+       "name":"NIKE",
+       "oppicanie":"Air max Tavas SD",
+       "Sveta":"Black/Pink Pow/Tour Yellow/White",
+       "naski":"EN STOCK",
+       "cost":"$160.00",
+       "razmer1":"37",
+       "razmer2":"38",
+       "razmer3":"39"
+
+    }
+   
+]
